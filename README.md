@@ -2,7 +2,7 @@
 
 > This project was undertaken as academic study to understand and apply the concepts of Econometrics and time series analysis.
 
-## Background picture
+## Introduction
 
 The impact of guns on crime in America has triggered a lot of public debate. Many strongly believe that state laws enabling citizens to carry concealed handguns had reduced crime. According to this view, gun control laws take away guns from law-abiding citizens, while would-be criminals ignore those leaving potential victims defenseless.Following this view, The National Rifle Association (NRA) and many politicians across the country advance the cause of greater freedom to carry guns.
 
@@ -14,7 +14,7 @@ Here we are analyzing the historical data on crime in the U.S to answer the ques
 
 Guns is a balanced panel of data on 50 US states, plus the District of Columbia (for a total of 51 states), by year for 1977 – 1999. Each observation is a given state in a given year. There are a total of 51 states × 23 years = 1173 observations
 
-Variable	Definitions
+Variable Definitions
 
 * vio           - violent crime rate (incidents per 100,000 members of the population)
 * rob	          - robbery rate (incidents per 100,000)

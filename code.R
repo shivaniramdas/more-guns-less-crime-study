@@ -46,9 +46,6 @@ na.omit(guns_data)
 summary(guns_data)
 
 
-
-
-
 # Data Exploration/Data Visualization
 
 # Correlation Plot
@@ -801,3 +798,5 @@ stargazer(ols_model_log_all_crime,fixed_entity_model,fixed_time_entity_model, co
           type="text",align = TRUE,title="Comparing Models", digits = 1, out="Comparing.docx")
 
 # Logarithm should be only applied for the robbery variable
+
+

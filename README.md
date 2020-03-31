@@ -1,4 +1,4 @@
-# more-guns-less-crime
+# more-guns-less-crime-study
 
 > This project was undertaken as a group academic study to understand and apply the concepts of Econometrics and time series analysis.
 
